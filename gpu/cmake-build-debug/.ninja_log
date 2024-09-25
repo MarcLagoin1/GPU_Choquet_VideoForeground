@@ -1,0 +1,20 @@
+# ninja log v5
+20	2035	1686233911510115295	CMakeFiles/gpu.dir/src/main.cpp.o	1e2e7458a0551f39
+2496	2613	1686233912098085677	gpu	c4b30399baae1f1e
+21	2275	1686233911751700676	CMakeFiles/gpu.dir/src/ChoquetIntegral.cpp.o	d0c69c4a6826a93c
+27	2154	1686233911629422260	CMakeFiles/gpu.dir/src/FuzzyChoquetIntegral.cpp.o	2e1e9834d54fee5d
+24	2234	1686233911708731713	CMakeFiles/gpu.dir/src/FeaturesExtraction.cpp.o	a8870bf163e3c244
+21	2496	1686233911975137979	CMakeFiles/gpu.dir/src/Image.cpp.o	67e83bcd1acdddd8
+24	1772	1686233911243853166	CMakeFiles/gpu.dir/src/Matrix.cpp.o	b4f9a98cdbe2ba06
+11	1277	1686234207896384754	CMakeFiles/gpu.dir/src/main.cpp.o	156f2b5fbb9e848e
+12	1322	1686234207944110103	CMakeFiles/gpu.dir/src/ChoquetIntegral.cpp.o	553c454212b86b28
+14	1327	1686234207947028842	CMakeFiles/gpu.dir/src/FuzzyChoquetIntegral.cpp.o	a1194eb65867ada3
+13	1430	1686234208051983494	CMakeFiles/gpu.dir/src/FeaturesExtraction.cpp.o	85360db15f4d99ae
+12	1528	1686234208151324331	CMakeFiles/gpu.dir/src/Image.cpp.o	355aa79e2608a636
+1528	1604	1686234208232936403	gpu	cf55965764e484c6
+18	2352	1686235804908940663	CMakeFiles/gpu.dir/src/main.cpp.o	156f2b5fbb9e848e
+19	2377	1686235804937249798	CMakeFiles/gpu.dir/src/ChoquetIntegral.cpp.o	553c454212b86b28
+20	2382	1686235804936194315	CMakeFiles/gpu.dir/src/FuzzyChoquetIntegral.cpp.o	a1194eb65867ada3
+20	2431	1686235804991426024	CMakeFiles/gpu.dir/src/FeaturesExtraction.cpp.o	85360db15f4d99ae
+19	2604	1686235805168138936	CMakeFiles/gpu.dir/src/Image.cpp.o	355aa79e2608a636
+2604	2743	1686235805313826797	gpu	cf55965764e484c6

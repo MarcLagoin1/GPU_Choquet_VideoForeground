@@ -1,0 +1,10 @@
+"/Users/marclagoin/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/marclagoin/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/marclagoin/Documents/image2024/GPGPU/gpu -B /Users/marclagoin/Documents/image2024/GPGPU/gpu/cmake-build-debug
+CMake Error at /Users/marclagoin/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.9011.31/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/FindCUDA.cmake:861 (message):
+  Specify CUDA_TOOLKIT_ROOT_DIR
+Call Stack (most recent call first):
+  CMakeLists.txt:9 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/marclagoin/Documents/image2024/GPGPU/gpu/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/marclagoin/Documents/image2024/GPGPU/gpu/cmake-build-debug/CMakeFiles/CMakeError.log".
