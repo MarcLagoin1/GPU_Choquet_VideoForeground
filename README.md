@@ -1,4 +1,4 @@
-# GPGPU
+# GPU Project for video foreground detection 
 
 ## Authors
 * Pierre-Louis Delcroix
